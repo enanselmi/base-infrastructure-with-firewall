@@ -5,4 +5,4 @@
     EC2 instances and ASG not included in the code.
     NAT-GW are disabled by default, they can be enabled in tfvars file.
 
-![image](./images/diagram.jpg)
+![image](./images/diagram_git.jpg)
